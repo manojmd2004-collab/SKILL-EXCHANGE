@@ -98,9 +98,9 @@ Ratings and reviews system
 Offline mode support
 👨‍💻 Developed By
 
-Usfan Ali Khan
+MANOJ M D
 BE – Computer Science Engineering
-Sir M Visvesvaraya Institute of Technology, Bengaluru
+VIVEKANANDA INSTITUTE OF TECHNOLOGY, Bengaluru
 
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/1fe783e4-6b1a-428b-a64a-42995d929c4d" />
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/fbd26c6f-0f57-47bb-986b-b6c338fae32a" />
