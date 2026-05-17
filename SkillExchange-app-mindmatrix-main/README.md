@@ -98,8 +98,8 @@ Ratings and reviews system
 Offline mode support
 👨‍💻 Developed By
 
-MANOJ M D
-BE – Computer Science Engineering
+MANOJ M D,
+BE – Computer Science Engineering,
 VIVEKANANDA INSTITUTE OF TECHNOLOGY, Bengaluru
 
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/1fe783e4-6b1a-428b-a64a-42995d929c4d" />
